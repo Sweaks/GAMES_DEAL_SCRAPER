@@ -8,6 +8,7 @@ NB : NOT FINISHED AT THE MOMENT
     - Website not ready.
     - If you would try/test it, you have to create a venv before lunching scraper.py with:
         '''$ python3 scraper.py '''
+    - All Commentaries are in french sry X(
   
   And that's it !!! 
 
